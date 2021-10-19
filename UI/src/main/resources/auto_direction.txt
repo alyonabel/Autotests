@@ -1,0 +1,71 @@
+Italian;Polish;明日;Japanese;Japanese;Polish
+French;Japanese;明日;Japanese;Japanese;French
+English;Russian;从战“疫”到民生;Chinese;Chinese;Russian
+Russian;Chinese;最优秀的剧集之一;Chinese;Chinese;Russian
+Russian;French;こい スープは 甘辛いのが とくちょうです。すきやきの 味に にています。これが 肉玉そばです。まん中に のっている タマゴと たくさんの 肉が 肉玉そばの とくちょうです;Japanese;Japanese;French
+German;French;manger;French;French;German
+French;German;română;Romanian;Romanian;German
+Polish;Italian;secretária;Portuguese;Portuguese;Italian
+German;French;today;English;English;French
+English;French;musi stać się rokiem;Polish;Polish;French
+English;French;das is ein Test;German;German;French
+English;French;si zahrát na jedno;Czech;Czech;French
+English;French;Chcete zažít adrenalinovou paintball akci přímo v centru Prahy;Czech;Czech;French
+English;French;överlappar ofta varandra;Swedish;Swedish;French
+English;French;Hier zijn enkele van de belangrijkste functies in Reverso Intranet;Dutch;Dutch;French
+English;French;En balja är ett större, men fortfarande manuellt flyttbart, lågt, öppet kärl avsett för tvätt, bad eller disk. Användningsområdena för baljor överlappar ofta varandra.;Swedish;Swedish;French
+English;French;Olá, bom dia! Eu chamo-me Joana e sou italiana.;Portuguese;Portuguese;French
+English;French;Oi, bom dia! Eu me chamo Sofia e também sou italiana.;Brazilian Portuguese;Brazilian Portuguese;French
+Brazilian Portuguese;French;Oi, bom dia! Eu me chamo Sofia e também sou italiana.;Brazilian Portuguese;Brazilian Portuguese;French
+Brazilian Portuguese;French;Além dessa tradicional diplomacia científica-tecnológica, o Itamaraty busca associar-se aos esforços de transformação do perfil produtivo da economia brasileira e de fomento à competitividade da indústria, com vistas a criar condições para a inserção do Brasil nas cadeias de produção mais avançadas em nível global por meio de uma diplomacia da inovação.;Brazilian Portuguese;Brazilian Portuguese;French
+Brazilian Portuguese;Portuguese;Além dessa tradicional diplomacia científica-tecnológica, o Itamaraty busca associar-se aos esforços de transformação do perfil produtivo da economia brasileira e de fomento à competitividade da indústria, com vistas a criar condições para a inserção do Brasil nas cadeias de produção mais avançadas em nível global por meio de uma diplomacia da inovação.;Brazilian Portuguese;Brazilian Portuguese;Portuguese
+English;French;Estas son algunas de las características principales;Spanish;Spanish;French
+Dutch;Portuguese;Angriffe auf Synagogen und die Verbrennung israelischer Fahnen;German;German;Portuguese
+English;French;vizeden muaf olmanız;Turkish;Turkish;French
+English;French;Yıpranmış pasaportla yapacağınız vize başvurunuz kabul edilse ve vizenizi alsanız dahi, sınırdan geri çevrilmeniz mümkün olabilmektedir.;Turkish;Turkish;French
+English;French;Polska wspiera koncepcję utworzenia regionalnych centrów kontroli;Polish;Polish;French
+English;French;Nos  i usta można zasłaniać tylko za pomocą maseczki.;Polish;Polish;French
+Turkish;German;diyorlár ki ólmıyacak;Turkish;Turkish;German
+Russian;French;Non volgio applicazioni che si aprono all'avvio del pc appesantendo il sistema;Italian;Italian;French
+Arabic;French;Non volgio applicazioni che si aprono all'avvio del pc appesantendo il sistema;Italian;Italian;French
+Chinese;French;Non volgio applicazioni che si aprono all'avvio del pc appesantendo il sistema;Italian;Italian;French
+Thai;French;Non volgio applicazioni che si aprono all'avvio del pc appesantendo il sistema;Italian;Italian;Thai
+English;French;Non volgio applicazioni che si aprono all'avvio del pc appesantendo il sistema;Italian;Italian;French
+Chinese;Japanese;Non volgio applicazioni che si aprono all'avvio del pc appesantendo il sistema;Italian;Italian;Japanese
+English;French;다음과;Korean;Korean;French
+English;French;프로그램 공모사업 선정결과를;Korean;Korean;French
+English;French;문화체육관광부(장관 황희, 이하 문체부)는 한국관광공사(사장 안영배, 이하 관광공사)와 함께 7월 8일(목)부터 7월 22일(목)까지 , 디지털 전환 지원 사업에 참여할 여행사를 모집한다.;Korean;Korean;French
+English;French;유엔 가입 30주년 국제포럼(Korea-UN 30th Anniversary Int'l Forum) 개최;Korean;Korean;French
+English;French;หรือ ;Thai;Thai;French
+English;French;การต่างประเทศไทย มีเอกภาพ;Thai;Thai;French
+English;French;ด้วยเจตนารมณ์ที่ต้องการดูแลประชาชนอย่างดีที่สุด มีการกระจายวัคซีนให้ทั่วถึงมากที่สุดและเป็นธรรม และเพื่อให้ประชาชนได้รับข้อมูลข่าวสารที่ถูกต้องอย่างชัดเจนจากการสื่อสารโดยตรงของโรงพยาบาลฯ โดยมี ภญ.;Thai;Thai;French
+English;French;प्लेग से लेकर लोगों की जीविका तक;Hindi;Hindi;French
+English;French;चार हफ्तों से शांत पड़ा मानसून अब दोबारा एक्टिव हो गया है। मध्यप्रदेश, राजस्थान, पंजाब और हरियाणा के कई जिलों में एक-दो दिन से रुक-रुककर बारिश जारी है। रविवार को बिजली गिरने से यूपी में 37, राजस्थान में 20 और मध्यप्रदेश में 10 लोगों की मौत हो गई।;Hindi;Hindi;French
+English;Greek;γλωσσολογία;Greek;Greek;English
+Russian;French;γλωσσολογία;Greek;Greek;French
+English;French;Φιλελληνική Ποίηση και Ελληνική Επανάσταση 1821-2021;Greek;Greek;French
+English;French;Αγαπητές συμπατριώτισσες, αγαπητοί συμπατριώτες, Σήμερα ο απανταχού Ελληνισμός γιορτάζει. Είναι η μέρα, που η Ελλάδα μας ύψωσε το ανάστημά της και βροντοφώναξε “ΟΧΙ” ενάντια στον ωμό και αυθάδη εκβιασμό των φασιστικών και ναζιστικών δυνάμεων του Άξονα.;Greek;Greek;French
+English;Hebrew;מחר;Hebrew;Hebrew;English
+English;German;מחר;Hebrew;Hebrew;German
+Spanish;Chinese;מחר;Hebrew;Hebrew;Chinese
+English;French;רשימת האישורים הנדרשים לחידוש רישיון רכב סוג הקובץ :  pdf משקל : 2.86 Mb;Hebrew;Hebrew;French
+German;Italian;ذهب;Arabic;Arabic;Italian
+English;Arabic;ذهب;Arabic;Arabic;English
+Hebrew;Chinese;ما;Persian;Persian;Chinese
+Hebrew;Chinese;نوروز باستانی یادگار نیاکان ما خجسته باد;Persian;Persian;Chinese
+Hebrew;Chinese;در اسلام اهميت فوق العاده اى به علم و دانش داده شده و صدها آيه قرآن و هزاران روایت از اين معنى حكايت مى كند.;Persian;Persian;Chinese
+Persian;Chinese;در اسلام اهميت فوق العاده اى به علم و دانش داده شده و صدها آيه قرآن و هزاران روایت از اين معنى حكايت مى كند.;Persian;Persian;Chinese
+Persian;Arabic;در اسلام اهميت فوق العاده اى به علم و دانش داده شده و صدها آيه قرآن و هزاران روایت از اين معنى حكايت مى كند.;Persian;Persian;Arabic
+German;Russian;завтра;Russian;Russian;German
+Italian;Hebrew;завтра;Russian;Russian;Hebrew
+German;Russian;сьогодні йду туди до столу;Ukrainian;Ukrainian;German
+French;Ukrainian;узколікій;Ukrainian;Ukrainian;French
+Chinese;Russian;Это по-русски написано а не по-китайски;Russian;Russian;Chinese
+English;German;Їхній номінал нижчий;Ukrainian;Ukrainian;German
+Russian;German;Круглі та шестикутні, трохи більше грама і кілограмові;Ukrainian;Ukrainian;German
+German;Ukrainian;Усовершенствованный перевод, совмещающий машинный и контекстуальный перевод;Russian;Russian;Ukrainian
+German;Romanian;Усовершенствованный перевод, совмещающий машинный и контекстуальный перевод;Russian;Russian;Romanian
+German;Ukrainian;Усовершенствованный перевод, совмещающий машинный и контекстуальный перевод в одном приложении;Russian;Russian;German
+Ukrainian;German;Усовершенствованный перевод, совмещающий машинный и контекстуальный перевод в одном приложении;Russian;Russian;German
+Ukrainian;Russian;Круглі та шестикутні, трохи більше грама і кілограмові;Ukrainian;Ukrainian;Russian
+Russian;Ukrainian;Круглі та шестикутні, трохи більше грама і кілограмові;Ukrainian;Ukrainian;Russian

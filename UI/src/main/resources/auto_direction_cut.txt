@@ -1,0 +1,36 @@
+Italian;Polish;明日;Japanese;Japanese;Polish
+French;Japanese;明日;Japanese;Japanese;French
+English;Russian;从战“疫”到民生;Chinese;Chinese;Russian
+Russian;Chinese;最优秀的剧集之一;Chinese;Chinese;Russian
+Russian;French;こい スープは 甘辛いのが とくちょうです。すきやきの 味に にています。これが 肉玉そばです。まん中に のっている タマゴと たくさんの 肉が 肉玉そばの とくちょうです;Japanese;Japanese;French
+German;French;manger;French;French;German
+French;German;română;Romanian;Romanian;German
+Polish;Italian;secretária;Portuguese;Portuguese;Italian
+German;French;today;English;English;French
+English;French;musi stać się rokiem;Polish;Polish;French
+English;French;das is ein Test;German;German;French
+English;French;Hier zijn enkele van de belangrijkste functies in Reverso Intranet;Dutch;Dutch;French
+English;French;Olá, bom dia! Eu chamo-me Joana e sou italiana.;Portuguese;Portuguese;French
+English;French;Estas son algunas de las características principales;Spanish;Spanish;French
+Dutch;Portuguese;Angriffe auf Synagogen und die Verbrennung israelischer Fahnen;German;German;Portuguese
+English;French;vizeden muaf olmanız;Turkish;Turkish;French
+English;French;Yıpranmış pasaportla yapacağınız vize başvurunuz kabul edilse ve vizenizi alsanız dahi, sınırdan geri çevrilmeniz mümkün olabilmektedir.;Turkish;Turkish;French
+English;French;Polska wspiera koncepcję utworzenia regionalnych centrów kontroli;Polish;Polish;French
+English;French;Nos  i usta można zasłaniać tylko za pomocą maseczki.;Polish;Polish;French
+Turkish;German;diyorlár ki ólmıyacak;Turkish;Turkish;German
+Russian;French;Non volgio applicazioni che si aprono all'avvio del pc appesantendo il sistema;Italian;Italian;French
+Arabic;French;Non volgio applicazioni che si aprono all'avvio del pc appesantendo il sistema;Italian;Italian;French
+Chinese;French;Non volgio applicazioni che si aprono all'avvio del pc appesantendo il sistema;Italian;Italian;French
+English;French;Non volgio applicazioni che si aprono all'avvio del pc appesantendo il sistema;Italian;Italian;French
+Chinese;Japanese;Non volgio applicazioni che si aprono all'avvio del pc appesantendo il sistema;Italian;Italian;Japanese
+English;Hebrew;מחר;Hebrew;Hebrew;English
+English;German;מחר;Hebrew;Hebrew;German
+Spanish;Chinese;מחר;Hebrew;Hebrew;Chinese
+English;French;רשימת האישורים הנדרשים לחידוש רישיון רכב סוג הקובץ :  pdf משקל : 2.86 Mb;Hebrew;Hebrew;French
+German;Italian;ذهب;Arabic;Arabic;Italian
+English;Arabic;ذهب;Arabic;Arabic;English
+German;Russian;завтра;Russian;Russian;German
+Italian;Hebrew;завтра;Russian;Russian;Hebrew
+Chinese;Russian;Это по-русски написано а не по-китайски;Russian;Russian;Chinese
+German;Romanian;Усовершенствованный перевод, совмещающий машинный и контекстуальный перевод;Russian;Russian;Romanian
+
