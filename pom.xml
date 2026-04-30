@@ -12,6 +12,7 @@
         <module>UI</module>
         <module>API</module>
         <module>Unit</module>
+        <module>GameTests</module>
     </modules>
 
     <properties>
