@@ -18,10 +18,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="UI" />
+        <module name="GameTests" />
         <module name="Unit" />
-        <module name="API" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="API" target="11" />
+      <module name="UI" target="15" />
+    </bytecodeTargetLevel>
   </component>
 </project>
