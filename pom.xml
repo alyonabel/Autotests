@@ -11,7 +11,8 @@
     <modules>
         <module>Unit</module>
         <module>GameTestsWireMock</module>
-        <module>DemoqaPlaywright</module>
+        <module>SauceDemoPlaywright</module>
+        <module>ReqresInGatling</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

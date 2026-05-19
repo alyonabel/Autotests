@@ -1,0 +1,1 @@
+# Автотесты для сайта https://www.saucedemo.com/ использованием фреймворка Playwright
