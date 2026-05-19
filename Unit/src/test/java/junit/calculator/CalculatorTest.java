@@ -1,7 +1,7 @@
 package junit.calculator;
 
-import junit.calculator.Calculator;
 import org.junit.*;
+
 import static org.junit.Assert.assertEquals;
 
 public class CalculatorTest {
